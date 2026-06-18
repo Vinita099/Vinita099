@@ -1,6 +1,6 @@
 # Hi, I'm Vinita 👋
 
-B.Tech CSE student at **IIITDM Jabalpur** (3rd year) · Building at the intersection of **ML/AI** and **full-stack development**
+B.Tech CSE student at **IIITDM Jabalpur** · Building at the intersection of **ML/AI** and **full-stack development**
 
 ---
 
